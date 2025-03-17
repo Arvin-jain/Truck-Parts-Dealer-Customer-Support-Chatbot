@@ -1,4 +1,3 @@
-Power Truck Group Customer Service Chatbot
 A conversational AI assistant built with LangChain, NVIDIA AI Endpoints, and Gradio to help Power Truck Group customers with part inquiries and support.
 Overview
 
