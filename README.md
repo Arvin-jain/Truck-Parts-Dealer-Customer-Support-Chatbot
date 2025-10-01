@@ -1,4 +1,4 @@
-A conversational AI assistant built with LangChain, NVIDIA AI Endpoints, and Gradio to help Power Truck Group customers with part inquiries and support.
+A conversational AI assistant built with LangChain, NVIDIA AI Endpoints, and Gradio to help customers with  inquiries and support.
 Overview
 
 This application creates an interactive chat interface that:
